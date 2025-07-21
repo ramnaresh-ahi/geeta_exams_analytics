@@ -1,0 +1,20 @@
+
+version: 2
+
+models:
+  - name: fact_results
+    description: Contains all measurable metrics/values of student's result 
+    columns:
+      - name: student_id
+        description: Unique identifier for each row in dim_student table
+        tests:
+          - relationships:
+              to: ref('dim_students')
+              field: student_id
+
+      - name: exam_id
+        description: Unique identifier for each row in dim_exams table
+        tests:
+          - relationships:
+              to: ref('dim_exams')
+              field: exam_id

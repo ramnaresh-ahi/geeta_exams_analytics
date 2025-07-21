@@ -1,0 +1,16 @@
+
+version: 2
+
+snapshots:
+  - name: dim_student_snapshot
+    description: Implement snapshot on stg_student table at staging layer so that we can track changes on contact_no, email, city
+    columns:
+      - name: contact_no
+        description: Return latest contact number of student with storing previous contact number
+      - name: email
+        description: Return latest email of student with storing previous email
+      - name: city
+        description: Return latest city of student with storing previous city
+
+        
+    
