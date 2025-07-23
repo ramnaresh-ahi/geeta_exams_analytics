@@ -94,7 +94,7 @@ geeta_exams_analytics/
 ## 📊 Dashboard
 
 - **Tool**: Tableau  
-- **Link**: [View Dashboard](https://placeholder-link.com) ← _Update this with your live link_
+- **Link**: [View Dashboard]([https://placeholder-link.com](https://github.com/ramnaresh-ahi/geeta_exams_analytics/blob/main/Images/geeta_exams_analytics_dashboard.png))
 
 ---
 
