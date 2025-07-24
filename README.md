@@ -49,7 +49,7 @@ This project analyzes performance and engagement in Bhagavad Gita exams, with th
 ## 📚 Documentation
 
 **🔗 Project Docs:**  
-[Students Learning Journey Documentation](https://ramnaresh-ahi.github.io/geeta_exams_analytics/)
+[Geeta Exams Analytics Documentation](https://ramnaresh-ahi.github.io/geeta_exams_analytics/)
 
 ---
 
